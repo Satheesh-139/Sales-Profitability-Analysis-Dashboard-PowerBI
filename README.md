@@ -17,7 +17,7 @@ actionable business insights for stakeholders.
 ## 📈 Dashboard Pages
 
 ### 1️⃣ Sales Performance Report
-![Sales Performance Dashboard](Sales Performance Report.png)
+![Sales Performance Dashboard](Sales-Performance-Report.png)
 
 KPI cards (Total Sales, Profit, Units Sold, Customers) with **year-over-year 
 comparisons**, sales by category, top customers and sub-categories, monthly 
