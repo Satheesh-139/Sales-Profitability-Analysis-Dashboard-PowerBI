@@ -16,14 +16,14 @@ actionable business insights for stakeholders.
 
 ## 📈 Dashboard Pages
 
-### 1️⃣ Sales Performance
-![Sales Performance Dashboard](sales-performance-Report.png)
+### 1️⃣ Sales Performance Report
+![Sales Performance Dashboard](Sales Performance Report.png)
 
 KPI cards (Total Sales, Profit, Units Sold, Customers) with **year-over-year 
 comparisons**, sales by category, top customers and sub-categories, monthly 
 profit trend, and a geographic sales map.
 
-### 2️⃣ Profit & Loss Analysis
+### 2️⃣ Profit & Loss Analysis Report
 ![Profit & Loss Analysis](profit-loss-analysis-Report.png)
 
 A deep dive into **what's eating the profit**: discount impact on margins, 
