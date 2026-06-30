@@ -24,7 +24,7 @@ comparisons**, sales by category, top customers and sub-categories, monthly
 profit trend, and a geographic sales map.
 
 ### 2️⃣ Profit & Loss Analysis Report
-![Profit & Loss Analysis](profit-loss-Analysis-Report.png)
+![Profit & Loss Analysis](Profit-Loss-Analysis-Report.png)
 
 A deep dive into **what's eating the profit**: discount impact on margins, 
 profit by order quantity tier and delivery speed, plus a scatter plot that 
